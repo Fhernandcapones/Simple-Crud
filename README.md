@@ -6,5 +6,7 @@ then find crudmaster.sql
 import the file to php mysql server
 
 thats it!! enjoy!!
-#mvcPattern 
-learn how to use mvc
+# mvc 
+
+
+
