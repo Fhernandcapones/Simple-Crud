@@ -8,5 +8,6 @@ import the file to php mysql server
 thats it!! enjoy!!
 # mvc 
 
+learn how to use mvc
 
 
