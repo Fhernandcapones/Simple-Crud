@@ -1,4 +1,4 @@
-# Simple-Crud
+# Simple-Crud JDBC
 
 download it and import this to netbeans IDE 8.2
 
